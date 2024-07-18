@@ -5,18 +5,18 @@ This project involves building a simple chatbot using Amazon Lex, integrating it
 
 Learning Outcome: Understanding chatbot creation, natural language processing (NLP) with Lex, and integrating chatbots with messaging platforms.
 Required Pre-requisites:
-Basic understanding of chatbots and NLP
-Familiarity with AWS management console
+Basic understanding of chatbots and NLP,
+Familiarity with AWS management console,
 Basic knowledge of a programming language (e.g., Python, JavaScript)
 
 Resources Required:
-AWS account
-Amazon Lex service
-Lambada 
+AWS account,
+Amazon Lex service,
+Lambada ,
 Messaging platform account (e.g., Facebook Messenger)
 
 Real-World Application:
-Customer support automation
+Customer support automation,
 Interactive chat interfaces for websites and applications
 
 ##### References
